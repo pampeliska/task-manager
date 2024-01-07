@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Výlet do hor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.",
+    "id": "1"
+  },
+  {
+    "name": "Skupina 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.",
+    "id": "2"
+  },
+  {
+    "name": "Skupina 3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.",
+    "id": "3"
+  },
+  {
+    "name": "Skupina 4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.",
+    "id": "4"
+  },
+  {
+    "name": "Skupina 5",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.",
+    "id": "5"
+  },
+  {
+    "name": "Skupina 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.",
+    "id": "6"
+  }
+]
